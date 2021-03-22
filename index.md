@@ -1,6 +1,6 @@
 # Jonathan Su's Programming Portfolio (2020-2021)
 
-## Processing Projects
+## Processing projects
 
 #### SpaceGame
 OOP game built in the Processing environment.
@@ -111,5 +111,5 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/arraysExample)
 
 
-## Java Projects
+## Java projects
  
