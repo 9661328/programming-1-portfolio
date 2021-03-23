@@ -11,34 +11,36 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### Calculator
 OOP calculator to do simple calculations.
-![Capture of running app]()
+![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/calculator.png)
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/calculator)
 
 #### Computer timeline
-![Capture of running app]()
+Some information.
+![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/computerTimeline.png)
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/computerTimeline)
 
 #### Screensaver lines
-![Capture of running app]()
+![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/screensaverLines.png)
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/screensaverLines)
 
 #### Etch-A-Sketch Screensaver
-![Capture of running app]()
+![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchScreensaver.png)
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchScreensaver)
 
 #### Etch-A-Sketch 1
-![Capture of running app]()
+![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketch.png)
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketch)
 
 #### Etch-A-Sketch Interactive
-![Capture of running app]()
+![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchInteractive.png)
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchInteractive)
+
 
 #### Button tester
 ![Capture of running app]()
