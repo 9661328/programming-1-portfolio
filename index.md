@@ -1,10 +1,10 @@
 # Jonathan Su's Programming Portfolio (2020-2021)
 
-## Processing projects
+## Processing Projects
 
 #### SpaceGame
 
-OOP game built in the Processing environment.
+Description: OOP game built in the Processing environment.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/SpaceGame)
 
@@ -13,7 +13,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### Calculator
 
-OOP calculator to do simple calculations.
+Description: OOP calculator to do simple calculations.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/calculator)
 
@@ -22,7 +22,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### Computer timeline
 
-Some information.
+Description: null
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/computerTimeline)
 
@@ -31,12 +31,16 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### Screensaver lines
 
+Description: null
+
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/screensaverLines)
 
 ![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/screensaverLines.png)
 
 
 #### Etch-A-Sketch Screensaver
+
+Description: null
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchScreensaver)
 
@@ -45,6 +49,8 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### Etch-A-Sketch 1
 
+Description: null
+
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketch)
 
 ![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketch.png)
@@ -52,86 +58,181 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### Etch-A-Sketch Interactive
 
+Description: null
+
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchInteractive)
 
 ![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchInteractive.png)
 
 
-
-
-
-
-
 ###### Button tester
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/buttonTester)
 
 ###### Collision detection
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/collisionDetection)
 
 ###### Computer basics random
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/computerBasicsRandom)
 
 ###### Converter app 1
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/converterApp)
 
 ###### Converter app 2
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/converterApp2)
 
 ###### Grade app
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/gradeApp)
 
 ###### Liner
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/liner)
 
 ###### OOP Cars
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/oopCars)
 
 ###### Random pixels
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/randomPixels)
 
 ###### Shapes sketch
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/shapesSketch)
 
 ###### Spaceship
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/spaceship)
 
 ###### Target
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/target)
 
 ###### Zoog
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/zoog)
 
 ###### Array examples
+
+Description: null
+
 ![Capture of running app]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/arraysExample)
 
 
-## Java projects
- 
+## Java Projects
+
+#### 99,999 Bottles
+
+Description: null
+
+![Capture of running app]()
+
+Source code available [here.]()
+
+#### Age Calculator
+
+Description: null
+
+![Capture of running app]()
+
+Source code available [here.]()
+
+#### Change Machine
+
+Description: null
+
+![Capture of running app]()
+
+Source code available [here.]()
+
+#### Mad Libs
+
+Description: null
+
+![Capture of running app]()
+
+Source code available [here.]()
+
+#### Number Guessing Game
+
+Description: null
+
+![Capture of running app]()
+
+Source code available [here.]()
+
+#### Pig Latin Converter
+
+Description: null
+
+![Capture of running app]()
+
+Source code available [here.]()
+
+#### 3D Shapes Calculator
+
+Description: null
+
+![Capture of running app]()
+
+Source code available [here.]()
+
