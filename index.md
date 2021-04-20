@@ -4,7 +4,7 @@ Type a bio here...
 
 Contact info:
 
-Email: [JONATHAN SU](mailto:jonasu9661328@gmail.com)
+Email: [JONATHAN SU (jonasu9661328@gmail.com)](mailto:jonasu9661328@gmail.com)
 
 ## Processing Projects
 
