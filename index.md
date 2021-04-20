@@ -48,13 +48,14 @@ Description: A screensaver that utilizes methods that take random integers to co
 
 Description: A screensaver that takes the sketch made in Etch-a-Sketch along with a ball and places it in a random location on the screen every second, each time with a random color. Also displays the time.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchScreensaver)
+| Source code | Windows x32 | Windows x64 | macOS |
+|:-----------:|:-----------:|:-----------:|:-----:|
+|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchScreensaver)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchScreensaver/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchScreensaver/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchScreensaver/application.macosx.zip)|
 
 ![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchScreensaver.png)
 
 
-
-#### Computer timeline
+#### Computer Timeline
 
 Description: null
 
