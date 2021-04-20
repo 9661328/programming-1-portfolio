@@ -66,6 +66,10 @@ Description: An interactive timeline that describes major computer systems in th
 ![Computer Timeline](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/computerTimeline.png?raw=true)
 
 
+
+
+
+
 Other projects below
 
 #### Etch-A-Sketch 1
@@ -86,27 +90,25 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 ![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchInteractive.png)
 
 
+
+
+
+
 ###### Button tester
 
-Description: null
-
-![Capture of running app]()
+Description: A program to test the button class for the calculator project.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/buttonTester)
 
 ###### Collision detection
 
-Description: null
-
-![Capture of running app]()
+Description: A program to detect when something hits the edge of the screen.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/collisionDetection)
 
 ###### Computer basics random
 
-Description: null
-
-![Capture of running app]()
+Description: Uses random integers to generate circles of varying sizes and colors.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/computerBasicsRandom)
 
@@ -122,81 +124,63 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 Description: null
 
-![Capture of running app]()
-
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/converterApp2)
 
 ###### Grade app
 
-Description: null
-
-![Capture of running app]()
+Description: An app that uses the position of the mouse to give a grade from 0-4 and determine the equivalent letter grade.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/gradeApp)
 
 ###### Liner
 
-Description: null
-
-![Capture of running app]()
+Description: Uses a loop to draw lines horizontally and vertically every 100 pixels and display text.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/liner)
 
 ###### OOP Cars
 
-Description: null
-
-![Capture of running app]()
+Description: Creates many instances of the car class and makes them drive in a random direction.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/oopCars)
 
 ###### Random pixels
 
-Description: null
-
-![Capture of running app]()
+Description: Uses a loop to draw small rectangles on the screen to resemble static.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/randomPixels)
 
 ###### Shapes sketch
 
-Description: null
-
-![Capture of running app]()
+Description: A program to test the drawing of shapes and experiment with their properties in Processing.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/shapesSketch)
 
 ###### Spaceship
 
-Description: null
-
-![Capture of running app]()
+Description: A sketch of the spaceship used in the SpaceGame.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/spaceship)
 
 ###### Target
 
-Description: null
-
-![Capture of running app]()
+Description: Uses a loop to draw concentric circles with varying shades of gray. 
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/target)
 
 ###### Zoog
 
-Description: null
-
-![Capture of running app]()
+Description: Uses a method to be able to draw the Zoog character over and over again, some following the mouse and some in random locations. 
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/zoog)
 
 ###### Array examples
 
-Description: null
-
-![Capture of running app]()
+Description: Takes numbers from an array and does things with them, such as squaring, adding a random number, taking the sum of all the numbers, etc.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/arraysExample)
+
+
 
 
 ## *Java Projects*
