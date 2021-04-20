@@ -23,9 +23,10 @@ Description: OOP calculator to do simple calculations.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/calculator)
 
-Windows 32
-Windows 64
-MacOS
+Download application:
+Windows x32 ![Windows 32](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.windows32.zip)
+Windows x64 ![Windows 64](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.windows64.zip)
+macOS ![macOS](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.macosx.zip)
 
 ![Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/calculator.png)
 
