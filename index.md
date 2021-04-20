@@ -41,7 +41,7 @@ Description: A screensaver that utilizes methods that take random integers to co
 |:-----------:|:-----------:|:-----------:|:-----:|
 |[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/screensaverLines)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.macosx.zip)|
 
-![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/screensaverLines.png?raw=true)
+![Screensaver Lines](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/screensaverLines.png?raw=true)
 
 
 #### Etch-A-Sketch Screensaver
@@ -52,19 +52,21 @@ Description: A screensaver that takes the sketch made in Etch-a-Sketch along wit
 |:-----------:|:-----------:|:-----------:|:-----:|
 |[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchScreensaver)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchScreensaver/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchScreensaver/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchScreensaver/application.macosx.zip)|
 
-![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchScreensaver.png)
+![Etch-a-Sketch Screensaver](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchScreensaver.png?raw=true)
 
 
 #### Computer Timeline
 
-Description: null
+Description: An interactive timeline that describes major computer systems in the 20th century and beyond. 
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/computerTimeline)
+| Source code | Windows x32 | Windows x64 | macOS |
+|:-----------:|:-----------:|:-----------:|:-----:|
+|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/computerTimeline)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/computerTimeline/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/computerTimeline/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/computerTimeline/application.macosx.zip)|
 
-![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/computerTimeline.png)
+![Computer Timeline](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/computerTimeline.png?raw=true)
 
 
-
+Other projects below
 
 #### Etch-A-Sketch 1
 
