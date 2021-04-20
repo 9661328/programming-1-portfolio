@@ -8,7 +8,7 @@ Type a bio here...certifications
 + 
 
 
-## *Processing Projects*
+## ![]() *Processing Projects*
 
 
 #### SpaceGame
@@ -185,6 +185,8 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 ## *Java Projects*
 
+### Java Individual Projects
+
 #### 99,999 Bottles
 
 Description: First program written in Java to print out the lyrics of the song "99,999 bottles" using a loop.
@@ -240,4 +242,8 @@ Description: null
 ![Capture of running app]()
 
 Source code available [here.]()
+
+
+
+### Java Group Projects
 
