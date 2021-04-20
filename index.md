@@ -7,6 +7,7 @@ Type a bio here...certifications
 + Email: [JONATHAN SU (jonasu9661328@gmail.com)](mailto:jonasu9661328@gmail.com)
 + 
 
+
 ## *Processing projects*
 
 
@@ -32,7 +33,7 @@ Description: OOP calculator to do simple calculations.
 ![Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/calculator.png?raw=true)
 
 
-#### Screensaver lines
+#### Screensaver Lines
 
 Description: null
 
@@ -40,7 +41,7 @@ Description: null
 |:-----------:|:-----------:|:-----------:|:-----:|
 |[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/screensaverLines)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.macosx.zip)|
 
-![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/screensaverLines.png)
+![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/screensaverLines.png?raw=true)
 
 
 #### Etch-A-Sketch Screensaver
