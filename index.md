@@ -8,7 +8,7 @@ Type a bio here...certifications
 + 
 
 
-## *Processing projects*
+## *Processing Projects*
 
 
 #### SpaceGame
