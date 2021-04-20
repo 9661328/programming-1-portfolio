@@ -9,6 +9,7 @@ Type a bio here...certifications
 
 ## *Processing projects*
 
+
 #### SpaceGame
 
 Description: OOP game built in the Processing environment.
@@ -28,23 +29,16 @@ Description: OOP calculator to do simple calculations.
 |:-----------:|:-----------:|:-----------:|:-----:|
 |[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/calculator)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.macosx.zip)|
 
-![Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/calculator.png)
-
-
-#### Computer timeline
-
-Description: null
-
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/computerTimeline)
-
-![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/computerTimeline.png)
+![Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/calculator.png?raw=true)
 
 
 #### Screensaver lines
 
 Description: null
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/screensaverLines)
+| Source code | Windows x32 | Windows x64 | macOS |
+|:-----------:|:-----------:|:-----------:|:-----:|
+|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/screensaverLines)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.macosx.zip)|
 
 ![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/screensaverLines.png)
 
@@ -56,6 +50,18 @@ Description: null
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchScreensaver)
 
 ![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchScreensaver.png)
+
+
+
+#### Computer timeline
+
+Description: null
+
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/computerTimeline)
+
+![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/computerTimeline.png)
+
+
 
 
 #### Etch-A-Sketch 1
