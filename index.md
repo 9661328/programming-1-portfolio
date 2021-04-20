@@ -8,7 +8,7 @@ Description: OOP game built in the Processing environment.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/SpaceGame)
 
-![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/SpaceGame.png)
+![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
 
 
 #### Calculator
@@ -18,6 +18,8 @@ Description: OOP calculator to do simple calculations.
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/calculator)
 
 ![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/calculator.png)
+
+![Calc]
 
 
 #### Computer timeline
