@@ -185,9 +185,8 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 
 
-## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Java_logo.png?raw=true" width="282" height="516" /> *Java Projects*
+## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Java_logo.png?raw=true" width="194" height="260" /> *Java Projects*
 
-![](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Java_logo.png?raw=true)
 
 ### Java Individual Projects
 
