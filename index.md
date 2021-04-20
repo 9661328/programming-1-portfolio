@@ -1,6 +1,6 @@
 # Jonathan Su's Programming Portfolio (2020-2021)
 
-Type a bio here...
+Type a bio here...certifications
 
 Contact info:
 
@@ -23,10 +23,9 @@ Description: OOP calculator to do simple calculations.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/calculator)
 
-Download application:
-[Windows x32](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.windows32.zip)
-[Windows x64](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.windows64.zip)
-[macOS](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.macosx.zip)
+| Windows x32 | Windows x64 | macOS |
+|:-----------:|:-----------:|:-----:|
+|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.windows32.zip)| [Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.windows64.zip) | [Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.macosx.zip) |
 
 ![Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/calculator.png)
 
