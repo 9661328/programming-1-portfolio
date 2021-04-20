@@ -13,7 +13,7 @@ Type a bio here...certifications
 
 #### SpaceGame
 
-Description: OOP game built in the Processing environment.
+Description: OOP shooting game built in the Processing environment.
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
@@ -24,7 +24,7 @@ Description: OOP game built in the Processing environment.
 
 #### Calculator
 
-Description: OOP calculator to do simple calculations.
+Description: OOP calculator to do simple calculations, with the design based on a TI-84 Plus CE graphing calculator.
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
@@ -35,7 +35,7 @@ Description: OOP calculator to do simple calculations.
 
 #### Screensaver Lines
 
-Description: null
+Description: A screensaver that utilizes methods that take random integers to control color, direction, and thickness of lines. Also displays the time.
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
@@ -46,7 +46,7 @@ Description: null
 
 #### Etch-A-Sketch Screensaver
 
-Description: null
+Description: A screensaver that takes the sketch made in Etch-a-Sketch along with a ball and places it in a random location on the screen every second, each time with a random color. Also displays the time.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchScreensaver)
 
