@@ -8,7 +8,7 @@ Type a bio here...certifications
 + 
 
 
-## ![]() *Processing Projects*
+## ![Processing](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Processing_3_logo.png?raw=true) *Processing Projects*
 
 
 #### SpaceGame
