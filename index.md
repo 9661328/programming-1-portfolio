@@ -6,7 +6,7 @@ Type a bio here...certifications
 
 + Email: [JONATHAN SU (jonasu9661328@gmail.com)](mailto:jonasu9661328@gmail.com)
 
-## Processing Projects
+## *Processing projects*
 
 #### SpaceGame
 
@@ -186,7 +186,7 @@ Description: null
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/arraysExample)
 
 
-## Java Projects
+## *Java Projects*
 
 #### 99,999 Bottles
 
