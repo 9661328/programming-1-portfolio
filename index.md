@@ -24,7 +24,7 @@ Description: OOP shooting game built in the Processing environment.
 
 #### Calculator
 
-Description: OOP calculator to do simple calculations, with the design based on a TI-84 Plus CE graphing calculator.
+Description: An OOP calculator to do simple calculations, with the design based on a TI-84 Plus CE graphing calculator.
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
