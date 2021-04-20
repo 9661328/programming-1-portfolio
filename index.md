@@ -187,7 +187,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### 99,999 Bottles
 
-Description: null
+Description: First program written in Java to print out the lyrics of the song "99,999 bottles" using a loop.
 
 ![Capture of running app]()
 
@@ -195,7 +195,7 @@ Source code available [here.]()
 
 #### Age Calculator
 
-Description: null
+Description: Takes a birth date and calculates the number of years, hours, minutes, etc. that have elapsed.
 
 ![Capture of running app]()
 
