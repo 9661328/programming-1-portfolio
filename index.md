@@ -198,9 +198,9 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 Description: First program written in Java to print out the lyrics of the song "99,999 bottles" using a loop.
 
-![Capture of running app]()
+![99,999 Bottles]()
 
-Source code available [here.]()
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/99%2C999%20Bottles)
 
 
 #### Age Calculator
@@ -241,20 +241,20 @@ Source code available [here.]()
 
 #### Pig Latin Converter
 
-Description: null
+Description: Takes a word or paragraph and translates it to Pig Latin. Also displays the character count and writes the output to a file.
 
 ![Capture of running app]()
 
-Source code available [here.]()
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Pig%20Latin%20Converter)
 
 
 #### 3D Shapes Calculator
 
-Description: null
+Description: Calculates surface area, volume, space diagonal, etc. for various shapes.
 
 ![Capture of running app]()
 
-Source code available [here.]()
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/3D%20Shapes%20Calculator)
 
 
 
