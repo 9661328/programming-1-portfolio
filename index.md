@@ -82,13 +82,12 @@ Description: The second version of the Etch-A-Sketch, which is user-controlled u
 
 Other projects below
 
-#### Etch-A-Sketch 1
 
-Description: null
+###### Array Examples
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketch)
+Description: Takes numbers from an array and does things with them, such as squaring, adding a random number, taking the sum of all the numbers, etc.
 
-![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketch.png)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/arraysExample)
 
 
 ###### Button tester
@@ -97,55 +96,20 @@ Description: A program to test the button class for the calculator project.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/buttonTester)
 
+
 ###### Collision detection
 
-Description: A program to detect when something hits the edge of the screen.
+Description: A program to detect when something hits the edge of the screen, and go in a different direction if it does.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/collisionDetection)
 
-###### Computer basics random
+
+###### Computer Basics Random
 
 Description: Uses random integers to generate circles of varying sizes and colors.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/computerBasicsRandom)
 
-###### Converter app 1
-
-Description: null
-
-![Capture of running app]()
-
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/converterApp)
-
-###### Converter app 2
-
-Description: null
-
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/converterApp2)
-
-###### Grade app
-
-Description: An app that uses the position of the mouse to give a grade from 0-4 and determine the equivalent letter grade.
-
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/gradeApp)
-
-###### Liner
-
-Description: Uses a loop to draw lines horizontally and vertically every 100 pixels and display text.
-
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/liner)
-
-###### OOP Cars
-
-Description: Creates many instances of the car class and makes them drive in a random direction.
-
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/oopCars)
-
-###### Random pixels
-
-Description: Uses a loop to draw small rectangles on the screen to resemble static.
-
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/randomPixels)
 
 ###### Shapes sketch
 
@@ -153,11 +117,20 @@ Description: A program to test the drawing of shapes and experiment with their p
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/shapesSketch)
 
-###### Spaceship
 
-Description: A sketch of the spaceship used in the SpaceGame.
+###### OOP Cars
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/spaceship)
+Description: Test of writing a class. Creates many instances of the car class and makes them drive in a random direction.
+
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/oopCars)
+
+
+###### Liner
+
+Description: Uses a loop to draw lines horizontally and vertically every 100 pixels and display text.
+
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/liner)
+
 
 ###### Target
 
@@ -165,17 +138,57 @@ Description: Uses a loop to draw concentric circles with varying shades of gray.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/target)
 
+
+###### Random pixels
+
+Description: Uses a loop to draw small rectangles on the screen to resemble static.
+
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/randomPixels)
+
+
+###### Converter app 1
+
+Description: null
+
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/converterApp)
+
+
+###### Converter app 2
+
+Description: null
+
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/converterApp2)
+
+
+###### Grade app
+
+Description: An app that uses the position of the mouse to give a grade from 0-4 and determine the equivalent letter grade.
+
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/gradeApp)
+
+
+###### Spaceship
+
+Description: The sketch of the spaceship used in the SpaceGame.
+
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/spaceship)
+
+
 ###### Zoog
 
 Description: Uses a method to be able to draw the Zoog character over and over again, some following the mouse and some in random locations. 
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/zoog)
 
-###### Array examples
 
-Description: Takes numbers from an array and does things with them, such as squaring, adding a random number, taking the sum of all the numbers, etc.
+#### Etch-A-Sketch 1
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/arraysExample)
+Description: null
+
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketch)
+
+![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketch.png)
+
 
 
 
