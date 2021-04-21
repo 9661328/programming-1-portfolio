@@ -67,6 +67,17 @@ Description: An interactive timeline that describes major computer systems in th
 
 ![Computer Timeline](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/computerTimeline.png?raw=true)
 
+
+#### Etch-A-Sketch Interactive
+
+Description: The second version of the Etch-A-Sketch, which is user-controlled using WASD on the keyboard.
+
+| Source code | Windows x32 | Windows x64 | macOS |
+|:-----------:|:-----------:|:-----------:|:-----:|
+|[Download]()|[Download]()|[Download]()|[Download]()|
+
+![Etch-A-Sketch Interactive](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchInteractive.png?raw=true)
+
 ***
 
 Other projects below
@@ -78,19 +89,6 @@ Description: null
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketch)
 
 ![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketch.png)
-
-
-#### Etch-A-Sketch Interactive
-
-Description: null
-
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchInteractive)
-
-![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchInteractive.png)
-
-
-
-
 
 
 ###### Button tester
