@@ -80,7 +80,7 @@ Description: The second version of the Etch-A-Sketch, which is user-controlled u
 
 ***
 
-Other projects below
+Other projects:
 
 
 ###### Array Examples
