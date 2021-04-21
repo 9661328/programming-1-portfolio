@@ -10,7 +10,7 @@ Type a bio here...certifications
 + School email: [JONATHAN SU (jonasu9661@granitesd.org)](mailto:jonasu9661@granitesd.org)
 
 
-## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Processing_3_logo.png?raw=true" width="50" height="50" /> *Processing Projects*
+## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Processing_3_logo.png?raw=true" width="40" height="40" /> *Processing Projects*
 
 
 #### SpaceGame
