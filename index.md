@@ -67,10 +67,7 @@ Description: An interactive timeline that describes major computer systems in th
 
 ![Computer Timeline](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/computerTimeline.png?raw=true)
 
-
-
-
-
+***
 
 Other projects below
 
