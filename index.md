@@ -209,7 +209,7 @@ Description: Takes a birth date and calculates the number of years, hours, minut
 
 ![Capture of running app]()
 
-Source code available [here.]()
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Age%20Calculator)
 
 
 #### Change Machine
@@ -218,7 +218,7 @@ Description: null
 
 ![Capture of running app]()
 
-Source code available [here.]()
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Change%20Machine)
 
 
 #### Mad Libs
@@ -227,7 +227,7 @@ Description: null
 
 ![Capture of running app]()
 
-Source code available [here.]()
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Mad%20Libs)
 
 
 #### Number Guessing Game
@@ -236,7 +236,7 @@ Description: null
 
 ![Capture of running app]()
 
-Source code available [here.]()
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Number%20Guessing%20Game)
 
 
 #### Pig Latin Converter
