@@ -187,16 +187,12 @@ Description: null
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketch)
 
-![Capture of running app](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketch.png)
-
-
-
 
 
 ## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Java_logo.jpg?raw=true" width="24" height="31" />  *Java Projects*
 
-
 ### Java Individual Projects
+
 
 #### 99,999 Bottles
 
@@ -206,6 +202,7 @@ Description: First program written in Java to print out the lyrics of the song "
 
 Source code available [here.]()
 
+
 #### Age Calculator
 
 Description: Takes a birth date and calculates the number of years, hours, minutes, etc. that have elapsed.
@@ -213,6 +210,7 @@ Description: Takes a birth date and calculates the number of years, hours, minut
 ![Capture of running app]()
 
 Source code available [here.]()
+
 
 #### Change Machine
 
@@ -222,6 +220,7 @@ Description: null
 
 Source code available [here.]()
 
+
 #### Mad Libs
 
 Description: null
@@ -229,6 +228,7 @@ Description: null
 ![Capture of running app]()
 
 Source code available [here.]()
+
 
 #### Number Guessing Game
 
@@ -238,6 +238,7 @@ Description: null
 
 Source code available [here.]()
 
+
 #### Pig Latin Converter
 
 Description: null
@@ -246,6 +247,7 @@ Description: null
 
 Source code available [here.]()
 
+
 #### 3D Shapes Calculator
 
 Description: null
@@ -253,6 +255,10 @@ Description: null
 ![Capture of running app]()
 
 Source code available [here.]()
+
+
+
+
 
 
 
