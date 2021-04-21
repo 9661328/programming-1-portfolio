@@ -2,6 +2,8 @@
 
 Type a bio here...certifications
 
+> Precision Exams Computer Programming 1 (820)
+
 **Contact info:**
 
 + Personal email: [JONATHAN SU (jonasu9661328@gmail.com)](mailto:jonasu9661328@gmail.com)
