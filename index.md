@@ -74,7 +74,7 @@ Description: The second version of the Etch-A-Sketch, which is user-controlled u
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
-|[Download]()|[Download]()|[Download]()|[Download]()|
+|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchInteractive)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchInteractive/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchInteractive/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchInteractive/application.macosx.zip)|
 
 ![Etch-A-Sketch Interactive](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchInteractive.png?raw=true)
 
