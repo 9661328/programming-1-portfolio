@@ -181,7 +181,7 @@ Description: Uses a method to be able to draw the Zoog character over and over a
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/zoog)
 
 
-#### Etch-A-Sketch 1
+###### Etch-A-Sketch 1
 
 Description: null
 
