@@ -200,7 +200,7 @@ Description: First program written in Java to print out the lyrics of the song "
 
 ![99,999 Bottles](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/99,999%20Bottles.png?raw=true)
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/99%2C999%20Bottles)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/99%2C999%20Bottles)
 
 
 #### Age Calculator
@@ -209,7 +209,7 @@ Description: Takes a birth date and calculates the number of years, hours, minut
 
 ![Age Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Age%20Calculator.png?raw=true)
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Age%20Calculator)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Age%20Calculator)
 
 
 #### Change Machine
@@ -218,7 +218,7 @@ Description: null
 
 ![Change Machine]()
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Change%20Machine)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Change%20Machine)
 
 
 #### Mad Libs
@@ -227,7 +227,7 @@ Description: null
 
 ![Mad Libs]()
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Mad%20Libs)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Mad%20Libs)
 
 
 #### Number Guessing Game
@@ -236,7 +236,7 @@ Description: null
 
 ![Number Guessing Game](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Number%20Guessing%20Game.png?raw=true)
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Number%20Guessing%20Game)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Number%20Guessing%20Game)
 
 
 #### Pig Latin Converter
@@ -245,7 +245,7 @@ Description: Takes a word or paragraph and translates it to Pig Latin. Also disp
 
 ![Pig Latin Converter](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Pig%20Latin%20Converter.png?raw=true)
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Pig%20Latin%20Converter)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Pig%20Latin%20Converter)
 
 
 #### 3D Shapes Calculator
@@ -254,7 +254,7 @@ Description: Calculates surface area, volume, space diagonal, etc. for various s
 
 ![3D Shapes Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/3D%20Shapes%20Calculator.png?raw=true)
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/3D%20Shapes%20Calculator)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/3D%20Shapes%20Calculator)
 
 #### Question Asker
 
