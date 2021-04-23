@@ -19,7 +19,7 @@ Description: OOP shooting game built in the Processing environment.
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
-|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/SpaceGame)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/SpaceGame/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/SpaceGame/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/SpaceGame/application.macosx.zip)|
+|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/SpaceGame)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/SpaceGame/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/SpaceGame/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/SpaceGame/application.macosx.zip)|
 
 ![SpaceGame](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
 
@@ -30,7 +30,7 @@ Description: An OOP calculator to do simple calculations, with the design based 
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
-|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/calculator)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/calculator/application.macosx.zip)|
+|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/calculator)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/calculator/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/calculator/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/calculator/application.macosx.zip)|
 
 ![Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/calculator.png?raw=true)
 
@@ -41,7 +41,7 @@ Description: A screensaver that utilizes methods that take random integers to co
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
-|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/screensaverLines)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/screensaverLines/application.macosx.zip)|
+|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/screensaverLines)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/screensaverLines/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/screensaverLines/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/screensaverLines/application.macosx.zip)|
 
 ![Screensaver Lines](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/screensaverLines.png?raw=true)
 
@@ -52,7 +52,7 @@ Description: A screensaver that takes the sketch made in Etch-a-Sketch along wit
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
-|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchScreensaver)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchScreensaver/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchScreensaver/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchScreensaver/application.macosx.zip)|
+|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/etchASketchScreensaver)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/etchASketchScreensaver/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/etchASketchScreensaver/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/etchASketchScreensaver/application.macosx.zip)|
 
 ![Etch-a-Sketch Screensaver](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchScreensaver.png?raw=true)
 
@@ -63,7 +63,7 @@ Description: An interactive timeline that describes major computer systems in th
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
-|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/computerTimeline)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/computerTimeline/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/computerTimeline/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/computerTimeline/application.macosx.zip)|
+|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/computerTimeline)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/computerTimeline/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/computerTimeline/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/computerTimeline/application.macosx.zip)|
 
 ![Computer Timeline](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/computerTimeline.png?raw=true)
 
@@ -74,7 +74,7 @@ Description: The second version of the Etch-A-Sketch, which is user-controlled u
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
-|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketchInteractive)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchInteractive/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchInteractive/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/etchASketchInteractive/application.macosx.zip)|
+|[Download](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/etchASketchInteractive)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/etchASketchInteractive/application.windows32.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/etchASketchInteractive/application.windows64.zip)|[Download](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/src/Processing/etchASketchInteractive/application.macosx.zip)|
 
 ![Etch-A-Sketch Interactive](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/etchASketchInteractive.png?raw=true)
 
@@ -87,105 +87,107 @@ Other projects:
 
 Description: Takes numbers from an array and does things with them, such as squaring, adding a random number, taking the sum of all the numbers, etc.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/arraysExample)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/arraysExample)
 
 
 ###### Button tester
 
 Description: A program to test the button class for the calculator project.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/buttonTester)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/buttonTester)
 
 
 ###### Collision detection
 
 Description: A program to detect when something hits the edge of the screen, and go in a different direction if it does.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/collisionDetection)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/collisionDetection)
 
 
 ###### Computer Basics Random
 
 Description: Uses random integers to generate circles of varying sizes and colors.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/computerBasicsRandom)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/computerBasicsRandom)
 
 
 ###### Shapes sketch
 
 Description: A program to test the drawing of shapes and experiment with their properties in Processing.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/shapesSketch)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/shapesSketch)
 
 
 ###### OOP Cars
 
 Description: Test of writing a class. Creates many instances of the car class and makes them drive in a random direction.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/oopCars)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/oopCars)
 
 
 ###### Liner
 
 Description: Uses a loop to draw lines horizontally and vertically every 100 pixels and display text.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/liner)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/liner)
 
 
 ###### Target
 
 Description: Uses a loop to draw concentric circles with varying shades of gray. 
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/target)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/target)
 
 
 ###### Random pixels
 
 Description: Uses a loop to draw small rectangles on the screen to resemble static.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/randomPixels)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/randomPixels)
 
 
 ###### Converter app 1
 
 Description: null
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/converterApp)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/converterApp)
 
 
 ###### Converter app 2
 
 Description: null
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/converterApp2)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/converterApp2)
 
 
 ###### Grade app
 
 Description: An app that uses the position of the mouse to give a grade from 0-4 and determine the equivalent letter grade.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/gradeApp)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/gradeApp)
 
 
 ###### Spaceship
 
 Description: The sketch of the spaceship used in the SpaceGame.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/spaceship)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/spaceship)
 
 
 ###### Zoog
 
 Description: Uses a method to be able to draw the Zoog character over and over again, some following the mouse and some in random locations. 
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/zoog)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/zoog)
 
 
 ###### Etch-A-Sketch 1
 
 Description: null
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/etchASketch)
+Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/etchASketch)
+
+
 
 
 
