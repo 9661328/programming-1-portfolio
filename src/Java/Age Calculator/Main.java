@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.util.Calendar;
 import java.util.Date;
-import java.text. * ;
+import java.text.* ;
 
 class Main {
   public static void main(String[] args) {
