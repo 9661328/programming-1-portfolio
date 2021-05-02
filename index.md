@@ -193,7 +193,11 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 ## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Java_logo.jpg?raw=true" width="24" height="31" />  *Java Projects*
 
-### Java Individual Projects
+#### Chess
+
+Description:
+
+Repository available [here.](https://github.com/9661328/Chess)
 
 
 #### 99,999 Bottles
@@ -265,12 +269,3 @@ Description: Takes a random question from a file, asks it to the user, and store
 ![Question Asker]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Question%20Asker)
-
-
-
-
-
-
-
-### Java Group Projects
-
