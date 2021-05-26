@@ -12,7 +12,6 @@ Type a bio here...certifications
 
 ## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Processing_3_logo.png?raw=true" width="25" height="25" /> *Processing Projects*
 
-
 #### SpaceGame
 
 Description: OOP shooting game built in the Processing environment.
@@ -82,7 +81,6 @@ Description: The second version of the Etch-A-Sketch, which is user-controlled u
 
 Other projects:
 
-
 ###### Array Examples
 
 Description: Takes numbers from an array and does things with them, such as squaring, adding a random number, taking the sum of all the numbers, etc.
@@ -148,14 +146,14 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 ###### Converter app 1
 
-Description: null
+Description: Converts Celsius to Fahrenheit according to the position of the mouse.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/converterApp)
 
 
 ###### Converter app 2
 
-Description: null
+Description: Another version of the converter app to calculate speeds.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/converterApp2)
 
@@ -183,9 +181,12 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 ###### Etch-A-Sketch 1
 
-Description: null
+Description: The first version of Etch-A-Sketch to draw my name.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/etchASketch)
+
+
+
 
 
 
@@ -224,7 +225,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 Description: Takes a number and outputs the coins that equals that amount.
 
-![Change Machine]()
+//
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Change%20Machine)
 
@@ -233,7 +234,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 Description: Asks the user for nouns, verbs, pronouns, etc. and then prints out the story.
 
-![Mad Libs]()
+//
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Mad%20Libs)
 
@@ -269,6 +270,6 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 Description: Takes a random question from a file, asks it to the user, and stores their response in an output file.
 
-![Question Asker]()
+//
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Question%20Asker)
