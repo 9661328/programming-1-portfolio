@@ -197,6 +197,8 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 Description: Final project for computer programming 1, more info available in README.
 
+![Home screen mockup](https://github.com/9661328/Chess/blob/main/assets/homeScreenMockup.png?raw=true)
+
 Repository available [here.](https://github.com/9661328/Chess)
 
 
@@ -220,7 +222,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### Change Machine
 
-Description: null
+Description: Takes a number and outputs the coins that equals that amount.
 
 ![Change Machine]()
 
@@ -229,7 +231,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### Mad Libs
 
-Description: null
+Description: Asks the user for nouns, verbs, pronouns, etc. and then prints out the story.
 
 ![Mad Libs]()
 
@@ -238,7 +240,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### Number Guessing Game
 
-Description: null
+Description: A random number from 1-100 is generated, the user must enter a guess until they get it correct.
 
 ![Number Guessing Game](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Number%20Guessing%20Game.png?raw=true)
 
@@ -261,6 +263,7 @@ Description: Calculates surface area, volume, space diagonal, etc. for various s
 ![3D Shapes Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/3D%20Shapes%20Calculator.png?raw=true)
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/3D%20Shapes%20Calculator)
+
 
 #### Question Asker
 
