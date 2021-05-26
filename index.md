@@ -195,7 +195,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### Chess
 
-Description:
+Description: Final project for computer programming 1, more info available in README.
 
 Repository available [here.](https://github.com/9661328/Chess)
 
