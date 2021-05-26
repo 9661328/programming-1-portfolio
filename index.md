@@ -2,7 +2,7 @@
 
 Type a bio here...certifications
 
-> Precision Exams Computer Programming 1 (820)
+> [Precision Exams Computer Programming 1 (820)](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Computer%20Programming%201%20(820)%20Score%20Report.pdf)
 
 **Contact info:**
 
