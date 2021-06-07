@@ -2,7 +2,10 @@
 
 Type a bio here...certifications
 
-> Precision Exams Computer Programming 1 (820)
+> [Precision Exams Computer Programming 1 (820)](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Computer%20Programming%201%20(820)%20Score%20Report.pdf)
+> 
+> Precision Exams Computer Programming Java (824)
+> 
 
 **Contact info:**
 
@@ -11,7 +14,6 @@ Type a bio here...certifications
 
 
 ## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Processing_3_logo.png?raw=true" width="25" height="25" /> *Processing Projects*
-
 
 #### SpaceGame
 
@@ -82,7 +84,6 @@ Description: The second version of the Etch-A-Sketch, which is user-controlled u
 
 Other projects:
 
-
 ###### Array Examples
 
 Description: Takes numbers from an array and does things with them, such as squaring, adding a random number, taking the sum of all the numbers, etc.
@@ -148,14 +149,14 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 ###### Converter app 1
 
-Description: null
+Description: Converts Celsius to Fahrenheit according to the position of the mouse.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/converterApp)
 
 
 ###### Converter app 2
 
-Description: null
+Description: Another version of the converter app to calculate speeds.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/converterApp2)
 
@@ -183,7 +184,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 ###### Etch-A-Sketch 1
 
-Description: null
+Description: The first version of Etch-A-Sketch to draw my name.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Processing/etchASketch)
 
@@ -191,9 +192,18 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 
 
+
+
+
 ## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Java_logo.jpg?raw=true" width="24" height="31" />  *Java Projects*
 
-### Java Individual Projects
+#### Chess
+
+Description: Final project for computer programming 1, more info available in README.
+
+![Home screen mockup](https://github.com/9661328/Chess/blob/main/assets/homeScreenMockup.png?raw=true)
+
+Repository available [here.](https://github.com/9661328/Chess)
 
 
 #### 99,999 Bottles
@@ -216,25 +226,25 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 #### Change Machine
 
-Description: null
+Description: Takes a number and outputs the coins that equals that amount.
 
-![Change Machine]()
+//
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Change%20Machine)
 
 
 #### Mad Libs
 
-Description: null
+Description: Asks the user for nouns, verbs, pronouns, etc. and then prints out the story.
 
-![Mad Libs]()
+//
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Mad%20Libs)
 
 
 #### Number Guessing Game
 
-Description: null
+Description: A random number from 1-100 is generated, the user must enter a guess until they get it correct.
 
 ![Number Guessing Game](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Number%20Guessing%20Game.png?raw=true)
 
@@ -258,19 +268,11 @@ Description: Calculates surface area, volume, space diagonal, etc. for various s
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/3D%20Shapes%20Calculator)
 
+
 #### Question Asker
 
 Description: Takes a random question from a file, asks it to the user, and stores their response in an output file.
 
-![Question Asker]()
+//
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Question%20Asker)
-
-
-
-
-
-
-
-### Java Group Projects
-
