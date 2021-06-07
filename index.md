@@ -1,11 +1,12 @@
 # Jonathan Su's Programming Portfolio (2020-2021)
 
-Type a bio here...certifications
+Bio: Welcome to my portfolio for my first year of coding! I've done block coding before and found that fascinating, so I wanted to try real coding. My language of focus this year was Java, and I programmed in Processing and [REPL.IT IDE](https://replit.com/). I took some certification tests (shown below) and passed all of them.
 
-> [Precision Exams Computer Programming 1 (820)](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Computer%20Programming%201%20(820)%20Score%20Report.pdf)
+> [Precision Exams Computer Programming 1 (820)](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/documents/Computer%20Programming%201%20(820)%20Score%20Report.pdf)
+>
+> [Precision Exams Computer Programming Java (824)](https://www.youscience.com/newyork/files/standards-pdfs/ks_824.pdf)
 > 
-> Precision Exams Computer Programming Java (824)
-> 
+> [Precision Exams Computer Programming C++ (822)](https://www.youscience.com/newyork/files/standards-pdfs/ks_822.pdf)
 
 **Contact info:**
 
