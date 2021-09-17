@@ -1,7 +1,10 @@
 # Jonathan Su's Programming Portfolio (2020-2021)
 
-Bio: Welcome to my portfolio for my first year of coding! I've done block coding before and found that fascinating, so I wanted to try real coding. My language of focus this year was Java, and I programmed in Processing and [REPL.IT IDE](https://replit.com/). I took some certification tests (shown below) and passed all of them.
+**About**:
 
+Welcome to my portfolio for my first year of coding! I've done block coding before and found that fascinating, so I wanted to try real coding. My language of focus this year was Java, as well as [Processing](processing.org) (similar to Java). My main IDE this year was [REPLIT](https://replit.com/).
+
+**Certifications:**
 > [Precision Exams Computer Programming 1 (820)](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/documents/Computer%20Programming%201%20(820)%20Score%20Report.pdf)
 >
 > [Precision Exams Computer Programming Java (824)](https://www.youscience.com/newyork/files/standards-pdfs/ks_824.pdf)
@@ -229,7 +232,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 Description: Takes a number and outputs the coins that equals that amount.
 
-//
+![Change Machine]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Change%20Machine)
 
@@ -238,7 +241,7 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 Description: Asks the user for nouns, verbs, pronouns, etc. and then prints out the story.
 
-//
+![Mad Libs]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Mad%20Libs)
 
@@ -274,9 +277,6 @@ Source code available [here.](https://github.com/9661328/programming-1-portfolio
 
 Description: Takes a random question from a file, asks it to the user, and stores their response in an output file.
 
-//
+![Questions Asker]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/src/Java/Question%20Asker)
-
-
-#test2:26 PM 8/7/2021
