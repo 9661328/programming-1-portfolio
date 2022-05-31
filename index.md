@@ -24,8 +24,9 @@ Welcome to my programming portfolio! I've done block coding before and found tha
 + Personal email: [jonasu9661328@gmail.com](mailto:jonasu9661328@gmail.com)
 + LinkedIn: [https://www.linkedin.com/in/jonathan-su-64205a230/](https://www.linkedin.com/in/jonathan-su-64205a230/)
 
+## Computer Programming 1
 
-## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Processing_3_logo.png?raw=true" width="25" height="25" /> *Processing Projects*
+### <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Processing_3_logo.png?raw=true" width="25" height="25" /> *Processing Projects*
 
 #### SpaceGame
 
@@ -200,14 +201,7 @@ Description: The first version of Etch-A-Sketch to draw my name.
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/etchASketch)
 
-
-
-
-
-
-
-
-## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Java_logo.jpg?raw=true" width="24" height="31" />  *Java Projects*
+### <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Java_logo.jpg?raw=true" width="24" height="31" />  *Java Projects*
 
 #### Chess
 
@@ -289,3 +283,6 @@ Description: Takes a random question from a file, asks it to the user, and store
 ![Questions Asker]()
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Question%20Asker)
+
+
+
