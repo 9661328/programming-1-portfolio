@@ -30,7 +30,7 @@ Welcome to my programming portfolio! I've done block coding before and found tha
 
 #### SpaceGame
 
-Description: OOP shooting game built in the Processing environment.
+OOP shooting game built in the Processing environment.
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
@@ -41,7 +41,7 @@ Description: OOP shooting game built in the Processing environment.
 
 #### Calculator
 
-Description: An OOP calculator to do simple calculations, with the design based on a TI-84 Plus CE graphing calculator.
+An OOP calculator to do simple calculations, with the design based on a TI-84 Plus CE graphing calculator.
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
@@ -52,7 +52,7 @@ Description: An OOP calculator to do simple calculations, with the design based 
 
 #### Screensaver Lines
 
-Description: A screensaver that utilizes methods that take random integers to control color, direction, and thickness of lines. Also displays the time.
+A screensaver that utilizes methods that take random integers to control color, direction, and thickness of lines. Also displays the time.
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
@@ -63,7 +63,7 @@ Description: A screensaver that utilizes methods that take random integers to co
 
 #### Etch-A-Sketch Screensaver
 
-Description: A screensaver that takes the sketch made in Etch-a-Sketch along with a ball and places it in a random location on the screen every second, each time with a random color. Also displays the time.
+A screensaver that takes the sketch made in Etch-a-Sketch along with a ball and places it in a random location on the screen every second, each time with a random color. Also displays the time.
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
@@ -74,7 +74,7 @@ Description: A screensaver that takes the sketch made in Etch-a-Sketch along wit
 
 #### Computer Timeline
 
-Description: An interactive timeline that describes major computer systems in the 20th century and beyond. 
+An interactive timeline that describes major computer systems in the 20th century and beyond. 
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
@@ -85,7 +85,7 @@ Description: An interactive timeline that describes major computer systems in th
 
 #### Etch-A-Sketch Interactive
 
-Description: The second version of the Etch-A-Sketch, which is user-controlled using WASD on the keyboard.
+The second version of the Etch-A-Sketch, which is user-controlled using WASD on the keyboard.
 
 | Source code | Windows x32 | Windows x64 | macOS |
 |:-----------:|:-----------:|:-----------:|:-----:|
@@ -99,69 +99,69 @@ Other projects:
 
 ###### [Array Examples](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/arraysExample)
 
-Description: Takes numbers from an array and does things with them, such as squaring, adding a random number, taking the sum of all the numbers, etc.
+Takes numbers from an array and does things with them, such as squaring, adding a random number, taking the sum of all the numbers, etc.
 
 ###### [Button tester](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/buttonTester)
 
-Description: A program to test the button class for the calculator project.
+A program to test the button class for the calculator project.
 
 ###### [Collision detection](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/collisionDetection)
 
-Description: A program to detect when something hits the edge of the screen, and go in a different direction if it does.
+A program to detect when something hits the edge of the screen, and go in a different direction if it does.
 
 ###### [Computer Basics Random](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/computerBasicsRandom)
 
-Description: Uses random integers to generate circles of varying sizes and colors.
+Uses random integers to generate circles of varying sizes and colors.
 
 ###### [Shapes sketch](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/shapesSketch)
 
-Description: A program to test the drawing of shapes and experiment with their properties in Processing.
+A program to test the drawing of shapes and experiment with their properties in Processing.
 
 ###### [OOP Cars](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/oopCars)
 
-Description: Test of writing a class. Creates many instances of the car class and makes them drive in a random direction.
+Test of writing a class. Creates many instances of the car class and makes them drive in a random direction.
 
 ###### [Liner](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/liner)
 
-Description: Uses a loop to draw lines horizontally and vertically every 100 pixels and display text.
+Uses a loop to draw lines horizontally and vertically every 100 pixels and display text.
 
 ###### [Target](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/target)
 
-Description: Uses a loop to draw concentric circles with varying shades of gray. 
+Uses a loop to draw concentric circles with varying shades of gray. 
 
 ###### [Random pixels](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/randomPixels)
 
-Description: Uses a loop to draw small rectangles on the screen to resemble static.
+Uses a loop to draw small rectangles on the screen to resemble static.
 
 ###### [Converter app 1](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/converterApp)
 
-Description: Converts Celsius to Fahrenheit according to the position of the mouse.
+Converts Celsius to Fahrenheit according to the position of the mouse.
 
 ###### [Converter app 2](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/converterApp2)
 
-Description: Another version of the converter app to calculate speeds.
+Another version of the converter app to calculate speeds.
 
 ###### [Grade app](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/gradeApp)
 
-Description: An app that uses the position of the mouse to give a grade from 0-4 and determine the equivalent letter grade.
+An app that uses the position of the mouse to give a grade from 0-4 and determine the equivalent letter grade.
 
 ###### [Spaceship](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/spaceship)
 
-Description: The sketch of the spaceship used in the SpaceGame.
+The sketch of the spaceship used in the SpaceGame.
 
 ###### [Zoog](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/zoog)
 
-Description: Uses a method to be able to draw the Zoog character over and over again, some following the mouse and some in random locations. 
+Uses a method to be able to draw the Zoog character over and over again, some following the mouse and some in random locations. 
 
 ###### [Etch-A-Sketch 1](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/etchASketch)
 
-Description: The first version of Etch-A-Sketch to draw my name.
+The first version of Etch-A-Sketch to draw my name.
 
 ### <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Java_logo.jpg?raw=true" width="24" height="31" />  *Java Projects*
 
 #### Chess
 
-Description: Final project for computer programming 1, more info available in README.
+Final project for computer programming 1, more info available in README.
 
 ![Home screen mockup](https://github.com/9661328/Chess/blob/main/assets/homeScreenMockup.png?raw=true)
 
@@ -169,49 +169,49 @@ Repository available [here.](https://github.com/9661328/Chess)
 
 #### [99,999 Bottles](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/99%2C999%20Bottles)
 
-Description: First program written in Java to print out the lyrics of the song "99,999 bottles" using a loop.
+First program written in Java to print out the lyrics of the song "99,999 bottles" using a loop.
 
 ![99,999 Bottles](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/99,999%20Bottles.png?raw=true)
 
 #### [Age Calculator](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Age%20Calculator)
 
-Description: Takes a birth date and calculates the number of years, hours, minutes, etc. that have elapsed.
+Takes a birth date and calculates the number of years, hours, minutes, etc. that have elapsed.
 
 ![Age Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Age%20Calculator.png?raw=true)
 
 #### [Change Machine](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Change%20Machine)
 
-Description: Takes a number and outputs the coins that equals that amount.
+Takes a number and outputs the coins that equals that amount.
 
 ![Change Machine]()
 
 #### [Mad Libs](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Mad%20Libs)
 
-Description: Asks the user for nouns, verbs, pronouns, etc. and then prints out the story.
+Asks the user for nouns, verbs, pronouns, etc. and then prints out the story.
 
 ![Mad Libs]()
 
 #### [Number Guessing Game](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Number%20Guessing%20Game)
 
-Description: A random number from 1-100 is generated, the user must enter a guess until they get it correct.
+A random number from 1-100 is generated, the user must enter a guess until they get it correct.
 
 ![Number Guessing Game](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Number%20Guessing%20Game.png?raw=true)
 
 #### [Pig Latin Converter](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Pig%20Latin%20Converter)
 
-Description: Takes a word or paragraph and translates it to Pig Latin. Also displays the character count and writes the output to a file.
+Takes a word or paragraph and translates it to Pig Latin. Also displays the character count and writes the output to a file.
 
 ![Pig Latin Converter](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Pig%20Latin%20Converter.png?raw=true)
 
 #### [3D Shapes Calculator](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/3D%20Shapes%20Calculator)
 
-Description: Calculates surface area, volume, space diagonal, etc. for various shapes.
+Calculates surface area, volume, space diagonal, etc. for various shapes.
 
 ![3D Shapes Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/3D%20Shapes%20Calculator.png?raw=true)
 
 #### [Question Asker](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Question%20Asker)
 
-Description: Takes a random question from a file, asks it to the user, and stores their response in an output file.
+Takes a random question from a file, asks it to the user, and stores their response in an output file.
 
 ![Questions Asker]()
 
