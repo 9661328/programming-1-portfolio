@@ -217,5 +217,5 @@ Takes a random question from a file, asks it to the user, and stores their respo
 
 ### Computer Programming 2
 
-#### [Individual Project]
-#### [Group Project]
+#### [Individual Project](https://github.com/9661328/cp2-individual-project)
+#### [Group Project]()
