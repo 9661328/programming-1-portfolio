@@ -97,109 +97,65 @@ Description: The second version of the Etch-A-Sketch, which is user-controlled u
 
 Other projects:
 
-###### Array Examples
+###### [Array Examples](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/arraysExample)
 
 Description: Takes numbers from an array and does things with them, such as squaring, adding a random number, taking the sum of all the numbers, etc.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/arraysExample)
-
-
-###### Button tester
+###### [Button tester](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/buttonTester)
 
 Description: A program to test the button class for the calculator project.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/buttonTester)
-
-
-###### Collision detection
+###### [Collision detection](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/collisionDetection)
 
 Description: A program to detect when something hits the edge of the screen, and go in a different direction if it does.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/collisionDetection)
-
-
-###### Computer Basics Random
+###### [Computer Basics Random](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/computerBasicsRandom)
 
 Description: Uses random integers to generate circles of varying sizes and colors.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/computerBasicsRandom)
-
-
-###### Shapes sketch
+###### [Shapes sketch](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/shapesSketch)
 
 Description: A program to test the drawing of shapes and experiment with their properties in Processing.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/shapesSketch)
-
-
-###### OOP Cars
+###### [OOP Cars](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/oopCars)
 
 Description: Test of writing a class. Creates many instances of the car class and makes them drive in a random direction.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/oopCars)
-
-
-###### Liner
+###### [Liner](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/liner)
 
 Description: Uses a loop to draw lines horizontally and vertically every 100 pixels and display text.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/liner)
-
-
-###### Target
+###### [Target](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/target)
 
 Description: Uses a loop to draw concentric circles with varying shades of gray. 
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/target)
-
-
-###### Random pixels
+###### [Random pixels](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/randomPixels)
 
 Description: Uses a loop to draw small rectangles on the screen to resemble static.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/randomPixels)
-
-
-###### Converter app 1
+###### [Converter app 1](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/converterApp)
 
 Description: Converts Celsius to Fahrenheit according to the position of the mouse.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/converterApp)
-
-
-###### Converter app 2
+###### [Converter app 2](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/converterApp2)
 
 Description: Another version of the converter app to calculate speeds.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/converterApp2)
-
-
-###### Grade app
+###### [Grade app](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/gradeApp)
 
 Description: An app that uses the position of the mouse to give a grade from 0-4 and determine the equivalent letter grade.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/gradeApp)
-
-
-###### Spaceship
+###### [Spaceship](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/spaceship)
 
 Description: The sketch of the spaceship used in the SpaceGame.
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/spaceship)
-
-
-###### Zoog
+###### [Zoog](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/zoog)
 
 Description: Uses a method to be able to draw the Zoog character over and over again, some following the mouse and some in random locations. 
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/zoog)
-
-
-###### Etch-A-Sketch 1
+###### [Etch-A-Sketch 1](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/etchASketch)
 
 Description: The first version of Etch-A-Sketch to draw my name.
-
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Processing/etchASketch)
 
 ### <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Java_logo.jpg?raw=true" width="24" height="31" />  *Java Projects*
 
@@ -211,81 +167,55 @@ Description: Final project for computer programming 1, more info available in RE
 
 Repository available [here.](https://github.com/9661328/Chess)
 
-
-#### 99,999 Bottles
+#### [99,999 Bottles](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/99%2C999%20Bottles)
 
 Description: First program written in Java to print out the lyrics of the song "99,999 bottles" using a loop.
 
 ![99,999 Bottles](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/99,999%20Bottles.png?raw=true)
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/99%2C999%20Bottles)
-
-
-#### Age Calculator
+#### [Age Calculator](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Age%20Calculator)
 
 Description: Takes a birth date and calculates the number of years, hours, minutes, etc. that have elapsed.
 
 ![Age Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Age%20Calculator.png?raw=true)
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Age%20Calculator)
-
-
-#### Change Machine
+#### [Change Machine](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Change%20Machine)
 
 Description: Takes a number and outputs the coins that equals that amount.
 
 ![Change Machine]()
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Change%20Machine)
-
-
-#### Mad Libs
+#### [Mad Libs](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Mad%20Libs)
 
 Description: Asks the user for nouns, verbs, pronouns, etc. and then prints out the story.
 
 ![Mad Libs]()
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Mad%20Libs)
-
-
-#### Number Guessing Game
+#### [Number Guessing Game](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Number%20Guessing%20Game)
 
 Description: A random number from 1-100 is generated, the user must enter a guess until they get it correct.
 
 ![Number Guessing Game](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Number%20Guessing%20Game.png?raw=true)
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Number%20Guessing%20Game)
-
-
-#### Pig Latin Converter
+#### [Pig Latin Converter](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Pig%20Latin%20Converter)
 
 Description: Takes a word or paragraph and translates it to Pig Latin. Also displays the character count and writes the output to a file.
 
 ![Pig Latin Converter](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Pig%20Latin%20Converter.png?raw=true)
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Pig%20Latin%20Converter)
-
-
-#### 3D Shapes Calculator
+#### [3D Shapes Calculator](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/3D%20Shapes%20Calculator)
 
 Description: Calculates surface area, volume, space diagonal, etc. for various shapes.
 
 ![3D Shapes Calculator](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/3D%20Shapes%20Calculator.png?raw=true)
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/3D%20Shapes%20Calculator)
-
-https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/3D%20Shapes%20Calculator.png
-
-#### Question Asker
+#### [Question Asker](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Question%20Asker)
 
 Description: Takes a random question from a file, asks it to the user, and stores their response in an output file.
 
 ![Questions Asker]()
 
-Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Question%20Asker)
-
 ### Computer Programming 2
 
-#### Individual Project: 
-#### Group Project:
-
+#### [Individual Project]
+#### [Group Project]
