@@ -1,0 +1,11 @@
+Original text:
+pig latin , or igpay atinlay is a language game or argot in which english words are altered , usually by adding a fabricated suffix or by moving the onset or initial consonant or consonant cluster of a word to the end of the word and adding a vocalic syllable to create such a suffix . for example , wikipedia would become ikipediaway (the w is moved from the beginning and has ay appended to create a suffix) . the objective is to conceal the words from others not familiar with the rules . the reference to latin is a deliberate misnomer ; pig latin is simply a form of argot , cant , or jargon unrelated to latin , and the name is used for its english connotations as a strange and foreign - sounding language . it is most often used by young children as a fun way to confuse people unfamiliar with pig latin .
+
+Translated text:
+igpay atinlay , oryay igpayyay atinlayyay isyay ayay anguagelay amegay oryay argotyay inyay ichwhay englishyay ordsway areyay alteredyay , usuallyyay byay addingyay ayay abricatedfay uffixsay oryay byay ovingmay ethay onsetyay oryay initialyay onsonantcay oryay onsonantcay usterclay ofyay ayay ordway otay ethay endyay ofyay ethay ordway andyay addingyay ayay ocalicvay ablesyllay otay eatecray uchsay ayay uffixsay . orfay exampleyay , ikipediaway ouldway ecomebay ikipediawayyay e(thay way isyay ovedmay omfray ethay eginningbay andyay ashay ayyay appendedyay otay eatecray ayay uffix)say . ethay objectiveyay isyay otay oncealcay ethay ordsway omfray othersyay otnay amiliarfay ithway ethay ulesray . ethay eferenceray otay atinlay isyay ayay eliberateday isnomermay ; igpay atinlay isyay implysay ayay ormfay ofyay argotyay , antcay , oryay argonjay unrelatedyay otay atinlay , andyay ethay amenay isyay usedyay orfay itsyay englishyay onnotationscay asyay ayay angestray andyay oreignfay - oundingsay anguagelay . ityay isyay ostmay oftenyay usedyay byay oungyay ildrenchay asyay ayay unfay ayway otay onfusecay eoplepay unfamiliaryay ithway igpay atinlay . 
+
+Character count (with spaces): 1149
+Character count (excluding spaces): 1006
+Space count: 143
+~~~
+
