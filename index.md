@@ -2,7 +2,7 @@
 
 **About**:
 
-Welcome to my portfolio for my first year of coding! I've done block coding before and found that fascinating, so I wanted to try real coding. My language of focus this year was Java, as well as [Processing](processing.org) (similar to Java). My main IDE this year was [REPLIT](https://replit.com/).
+Welcome to my programming portfolio! I've done block coding before and found that fascinating, so I wanted to try real coding. My language of focus for my first year was Java, as well as [Processing](processing.org) (similar to Java). I decided to continue to computer programming 2 to learn Java more in depth. My main IDEs were [REPLIT](https://replit.com/) and Eclipse.
 
 **Certifications:**
 > [Precision Exams Computer Programming 1 (820)](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/documents/certifications/Computer%20Programming%201%20(820)%20Certification.pdf)
@@ -14,11 +14,15 @@ Welcome to my portfolio for my first year of coding! I've done block coding befo
 > [Precision Exams Computer Programming Python (827)](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/documents/certifications/Python%20(827)%20Certification.pdf)
 >
 > [Precision Exams Computer Programming Advanced (840)](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/documents/certifications/Computer%20Programming%20Advanced%20Certification%20(840).pdf)
+> 
+> [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program)
+> 
+> AP Computer Science A - {score not yet known}
 
 **Contact info:**
 
-+ Personal email: [JONATHAN SU (jonasu9661328@gmail.com)](mailto:jonasu9661328@gmail.com)
-+ School email: [JONATHAN SU (jonasu9661@granitesd.org)](mailto:jonasu9661@granitesd.org)
++ Personal email: [jonasu9661328@gmail.com](mailto:jonasu9661328@gmail.com)
++ LinkedIn: https://www.linkedin.com/in/jonathan-su-64205a230/
 
 
 ## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/images/Processing_3_logo.png?raw=true" width="25" height="25" /> *Processing Projects*
