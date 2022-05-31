@@ -22,7 +22,7 @@ Welcome to my programming portfolio! I've done block coding before and found tha
 **Contact info:**
 
 + Personal email: [jonasu9661328@gmail.com](mailto:jonasu9661328@gmail.com)
-+ LinkedIn: https://www.linkedin.com/in/jonathan-su-64205a230/
++ LinkedIn: [https://www.linkedin.com/in/jonathan-su-64205a230/](https://www.linkedin.com/in/jonathan-su-64205a230/)
 
 
 ## <img src="https://github.com/9661328/programming-1-portfolio/blob/gh-pages/Computer%20Programming%201/images/Processing_3_logo.png?raw=true" width="25" height="25" /> *Processing Projects*
