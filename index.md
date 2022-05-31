@@ -284,5 +284,8 @@ Description: Takes a random question from a file, asks it to the user, and store
 
 Source code available [here.](https://github.com/9661328/programming-1-portfolio/tree/gh-pages/Computer%20Programming%201/src/Java/Question%20Asker)
 
+### Computer Programming 2
 
+#### Individual Project: 
+#### Group Project:
 
