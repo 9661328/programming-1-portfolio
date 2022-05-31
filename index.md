@@ -2,7 +2,7 @@
 
 **About**:
 
-Welcome to my programming portfolio! I've done block coding before and found that fascinating, so I wanted to try real coding. My language of focus for my first year was Java, as well as [Processing](processing.org) (similar to Java). I decided to continue to computer programming 2 to learn Java more in depth. My main IDEs were [REPLIT](https://replit.com/) and Eclipse.
+Welcome to my programming portfolio! I've done block coding before and found that fascinating, so I wanted to try real coding. My language of focus for my first year was Java, as well as [Processing](processing.org) (similar to Java). I decided to continue to computer programming 2 to learn Java more in depth; I also took the AP Computer Science A exam. My main IDEs were [REPLIT](https://replit.com/) and Eclipse.
 
 **Certifications:**
 > [Precision Exams Computer Programming 1 (820)](https://github.com/9661328/programming-1-portfolio/blob/gh-pages/documents/certifications/Computer%20Programming%201%20(820)%20Certification.pdf)
